@@ -1,0 +1,12 @@
+git status
+clear
+git add .
+git status
+clear
+git status
+git commit —m
+"added testing files"
+
+git remote -v
+git remote add origin 
+git remote set-url origin
